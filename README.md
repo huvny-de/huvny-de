@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif)
 
 <!--
 **huvny-de/huvny-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
