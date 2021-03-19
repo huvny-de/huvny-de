@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 &copy;
-<p 
-style="color:yellow;">Huvny
-</p>
+<p style="color:yellow;">Huvny</p>
