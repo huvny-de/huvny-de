@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ## &copy;***Huvny***
 #<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Huvny</p>
 
+ <div class="footer">
+       Copyright &copy; 
+       <script>document.write(new Date().getFullYear())</script> Huvny
+    </div>
