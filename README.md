@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&copy;
-<p style="color:yellow;">Huvny</p>
+## &copy;***Huvny***
+
