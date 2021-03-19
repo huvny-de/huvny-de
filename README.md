@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## &copy;***Huvny***
+#<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Huvny</p>
 
