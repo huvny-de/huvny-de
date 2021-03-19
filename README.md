@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 &copy;
 <p 
-style="color:yellow;">Huvny<
-/p>
+style="color:yellow;">Huvny
+</p>
