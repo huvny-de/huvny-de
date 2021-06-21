@@ -1,5 +1,12 @@
+<br />
+<p align="center">
+    <a href="https://github.com/huvny-de">
+        <img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" alt="Logo">
+    </a>
 
-![](https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif)
+<h3 align="center">Huvny</h3>
+
+<p align="center">
 
 <!--
 **huvny-de/huvny-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
