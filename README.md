@@ -6,8 +6,6 @@
 
 <h3 align="center">&copy; 2021 HUVNY</h3>
 
-<p align="center">
-
 <!--
 **huvny-de/huvny-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
