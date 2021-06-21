@@ -4,7 +4,7 @@
         <img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" alt="Logo">
     </a>
 
-<h3 align="center">Copyright &copy; 2021 HUVNY</h3>
+<h3 align="center">&copy; 2021 HUVNY</h3>
 
 <p align="center">
 
