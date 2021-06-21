@@ -4,7 +4,7 @@
         <img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" alt="Logo">
     </a>
 
-<h3 align="center">Huvny</h3>
+<h3 align="center">Copyright &copy; ***Huvny***</h3>
 
 <p align="center">
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Copyright &copy; ***Huvny***
+
